@@ -1,0 +1,6 @@
+.DS_Store
+__pycache__/
+auth/google/google_api_credentials.json
+data/*
+.env
+!.gitkeep
